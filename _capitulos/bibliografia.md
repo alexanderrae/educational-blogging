@@ -4,8 +4,9 @@ title: "Bibliografía"
 comments: true
 ---
 
-* Ballard, B. (2007). _Designing the Mobile User Experience_. Chichester: John Wiley & Sons, Ltd.
+* Downes, S. (2004). _Educational Blogging_. EDUCAUSE review
 
+/*
 * Barry, N., Clark, J., Frost, B., Kardys, D., Keith, J., Koch, P., Nudelman, G., Olsen, D., Rieger, S., Toledo, A., Van Der Merwe, R., y Walton, T. (2012). _The mobile book_. Friburgo de Brisgovia: Smashing Media GmbH.
 
 * Beaird, J. (2010). _The principles of beautiful web design_ (2ta ed.). San Fransisco: SitePoint Pty. Ltd.
@@ -41,3 +42,4 @@ comments: true
 * Villamor, C., Willis, D. y Wroblewski, L. (2010). _Touch gesture reference guide_. Disponible en: http://static.lukew.com/TouchGestureGuide.pdf
 
 * Wroblewski, L. (2011). _Mobile first_. Nueva York: A Book Apart, LLC.
+*/
