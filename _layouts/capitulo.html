@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="chapter">
+  <h1 class="chapter-title">{{ page.chapter }}</h1>
+  <h2 class="chapter-subtitle">{{ page.title }}</h2>
+  {{ content }}
+
+  {% include nav_interna.html %}
+
+  {% if page.comments %}
+  	<hr>
+  	{% include disqus.html %}
+  {% endif %}
+</article>

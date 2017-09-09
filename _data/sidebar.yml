@@ -1,0 +1,107 @@
+- title: "Introducción"
+  url: introduccion
+- title: "El fascinante mundo del diseño web"
+  url: fascinante-mundo
+  subcaps:
+  - url: que-hay-dentro
+    title: "¿Qué hay dentro de un sitio web?"
+    subsubcaps:
+      - url: armazon
+        title: "El armazón: HTML"
+      - url: maquillaje
+        title: "El maquillaje: CSS"
+      - url: magia
+        title: "La magia: Javascript"
+      - url: logica
+        title: "La lógica: lenguajes de programación del lado del servidor"
+  - url: surfeando-la-web
+    title: "Surfeando la Web: los navegadores"
+  - url: navegantes-satisfechos
+    title: "Navegantes satisfechos: la experiencia de usuario"
+    subsubcaps:
+      - url: facilitando-caminos
+        title: "Facilitando caminos mediante la usabilidad"
+      - url: accesibilidad
+        title: "Accesibilidad para todos y todas"
+- title: "La Web en todos lados"
+  url: en-todos-lados
+  subcaps:
+  - url: red-al-alcance
+    title: "La red al alcance de la mano: dispositivos móviles"
+    subsubcaps:
+      - url: telefonos-pensantes
+        title: "Teléfonos pensantes: smartphones"
+      - url: pequenas-computadoras
+        title: "Pequeñas computadoras: tablets"
+      - url: aun-mas
+        title: "¿Aún más?: otras clases de dispositivos"
+  - url: creciente-avance
+    title: "El creciente avance de las plataformas móviles"
+  - url: bicho-raro
+    title: "Un bicho raro: el usuario móvil"
+  - url: app-para-todo
+    title: "Hay una app para todo"
+    subsubcaps:
+      - url: nativas
+        title: "Aplicaciones nativas"
+      - url: web
+        title: "Aplicaciones web"
+      - url: hibridas
+        title: "Aplicaciones híbridas"
+  - url: entorno-movil
+    title: "Cuando el entorno móvil marca fronteras"
+    subsubcaps:
+      - url: small-large-xl
+        title: "Small, large y XL: resoluciones"
+      - url: vertical-o-apaisado
+        title: "¿Vertical o apaisado?: orientaciones de pantalla"
+      - url: navegador-reglas
+        title: "Cada navegador con sus reglas"
+- title: "La Web líquida"
+  url: web-liquida
+  subcaps:
+    - url: adaptar-o-morir
+      title: "Adaptar o morir"
+    - url: responder-acorde
+      title: "Responder acorde: responsive web design"
+    - url: disenar-responsivamente
+      title: "¿Uno, dos o cinco? Diseñar responsivamente en vez de por separado"
+    - url: mobile-first
+      title: "Avancen los móviles: la filosofía mobile first"
+    - url: mejora-degradacion
+      title: "¿Mejora progresiva o degradación gradual?"
+- title: "¡Manos a la obra! Responsive web design en camino"
+  url: rwd-en-camino
+  subcaps:
+    - url: media-queries
+      title: "Condicionar las reglas: media queries"
+    - url: unidades-flexibles
+      title: "Medir relativamente con unidades flexibles"
+    - url: tipos-moviles
+      title: "Verdaderos tipos móviles: fuentes adaptables"
+    - url: imagenes-elasticas
+      title: "Imágenes elásticas"
+    - url: sistemas-de-grillas
+      title: "Cada cosa en su lugar: sistemas de grillas"
+    - url: cerrando-grietas
+      title: "Cerrando grietas con polyfills"
+    - url: era-touch
+      title: "La era touch: gestos táctiles"
+    - url: frameworks
+      title: "Marche un combo para llevar: frameworks"
+- title: "De la teoría a la práctica: diseño web responsivo en acción"
+  url: teoria-a-la-practica
+  subcaps:
+    - url: quien-lo-usa
+      title: "¿Quién lo usa?: análisis de aplicación"
+      subsubcaps:
+        - url: infobae
+          title: "Responsive web design en las grandes ligas: Infobae"
+        - url: portfolio
+          title: "Pensando un portfolio: rediseño del sitio web personal de la autora"
+    - url: ganan-todos
+      title: "Ganan todos: beneficios del uso de esta práctica"
+- title: "Conclusiones"
+  url: conclusiones
+- title: "Bibliografía"
+  url: bibliografia

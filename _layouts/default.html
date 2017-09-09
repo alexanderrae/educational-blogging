@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="wrapper">
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">
+            <span class="title-multiplicidad">Multiplicidad</span>
+            <span class="title-digital">Digital</span>
+          </a>
+          <small>{{ site.tagline }}</small>
+        </h3>
+      </header>
+
+      <div class="container">
+        {% include aside.html %}
+
+        <main>
+          {{ content }}
+        </main>
+      </div>
+
+      <footer class="footer">
+        <div class="social">
+            <a href="http://twitter.com/bakery" title="Twitter: @bakery"><span class="icon-twitter"></span></a>
+            <a href="https://ar.linkedin.com/in/amireynoso" title="LinkedIn: Ami Reynoso"><span class="icon-linkedin"></span></a>
+        </div>
+        <div class="disclaimer">
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. <a href="http://amireynoso.com.ar">Ami Reynoso</a>.
+          <small>Todos los derechos reservados.</small>
+        </div>
+      </footer>
+    </div>
+
+    {% include analytics.html %}
+
+  </body>
+</html>

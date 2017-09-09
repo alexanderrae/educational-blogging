@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article class="subchapter">
+  <h1 class="subchapter-title"><small>{{ page.order }}</small> {{ page.title }}</h1>
+  {{ content }}
+
+  {% include nav_interna.html %}
+
+  {% if page.comments %}
+  	<hr>
+  	{% include disqus.html %}
+  {% endif %}
+</article>

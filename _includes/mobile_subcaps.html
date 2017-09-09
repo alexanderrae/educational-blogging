@@ -1,0 +1,24 @@
+{% assign items = include.items %}
+{% assign parent = include.parent %}
+
+<ul>
+{% for item in items %}
+  {% if item.url == page.url %}
+    {% assign c = " selected" %}
+  {% else %}
+    {% assign c = "" %}
+  {% endif %}
+
+  <option value="{{ site.baseurl }}/{{ parent }}/{{ item.url }}" class="menu-level2" {{ c }}>{{ item.title }}</option>
+  {% if item.subsubcaps %}
+    {% for subitem in item.subsubcaps %}
+      {% if subitem.url == page.url %}
+        {% assign sc = " selected" %}
+      {% else %}
+        {% assign sc = "" %}
+      {% endif %}
+      <option value="{{ site.baseurl }}/{{ parent }}/{{ item.url }}/{{ subitem.url }}" class="menu-level3" {{ sc }}>{{ subitem.title }}</a></li>
+    {% endfor %}
+  {% endif %}
+
+{% endfor %}

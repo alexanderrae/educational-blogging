@@ -1,0 +1,43 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           :title
+relative_permalinks: true
+
+# Setup
+title:               Multiplicidad Digital
+tagline:             Hacia la expansión de interfaces web para dispositivos móviles
+url:                 http://amireynoso.github.io/multiplicidad
+paginate:            1
+baseurl:             "/multiplicidad"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Ami Reynoso
+  url:               http://amireynoso.com.ar
+  email:             amireynoso@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              "https://github.com/amireynoso/multiplicidad"
+
+# Collection
+collections:
+  capitulos:
+    output: 		true
+    permalink: 		/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: capitulos
+    values:
+      layout: capitulo
