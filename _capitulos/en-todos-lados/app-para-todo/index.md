@@ -1,6 +1,7 @@
 ---
 title: Hay una app para todo
 permalink: en-todos-lados/app-para-todo/
+position: 8
 layout: subcapitulo
 order: 2.4.
 comments: true

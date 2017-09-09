@@ -1,5 +1,6 @@
 ---
 title: 'Un bicho raro: el usuario móvil'
+position: 2
 layout: subcapitulo
 order: 2.3.
 comments: true

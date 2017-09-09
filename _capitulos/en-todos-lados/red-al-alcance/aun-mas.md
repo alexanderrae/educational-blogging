@@ -1,5 +1,6 @@
 ---
 title: "¿Aún más?, otras clases de dispositivos"
+position: 13
 layout: subcapitulo
 order: 2.1.3
 comments: true

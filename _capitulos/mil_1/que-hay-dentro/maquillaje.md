@@ -1,5 +1,6 @@
 ---
 title: 'El maquillaje: CSS'
+position: 26
 layout: subcapitulo
 order: 1.1.2.
 comments: true

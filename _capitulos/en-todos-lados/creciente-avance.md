@@ -1,5 +1,6 @@
 ---
 title: El creciente avance de las plataformas móviles
+position: 3
 layout: subcapitulo
 order: 2.2.
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: La Web en todos lados
 permalink: en-todos-lados/
+position: 4
 layout: capitulo
 chapter: Capítulo 2
 comments: true

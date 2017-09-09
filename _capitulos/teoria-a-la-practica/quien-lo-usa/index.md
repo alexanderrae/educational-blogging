@@ -1,6 +1,7 @@
 ---
 title: "¿Quién lo usa?: análisis de aplicación"
 permalink: teoria-a-la-practica/quien-lo-usa/
+position: 38
 layout: subcapitulo
 order: 5.1.
 comments: true

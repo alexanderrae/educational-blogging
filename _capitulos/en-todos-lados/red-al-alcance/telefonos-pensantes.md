@@ -1,5 +1,6 @@
 ---
 title: 'Teléfonos pensantes: smartphones'
+position: 16
 layout: subcapitulo
 order: 2.1.1.
 comments: true

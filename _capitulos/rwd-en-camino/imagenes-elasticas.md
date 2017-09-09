@@ -1,5 +1,6 @@
 ---
 title: Imágenes elásticas
+position: 30
 layout: subcapitulo
 order: 4.4.
 comments: true

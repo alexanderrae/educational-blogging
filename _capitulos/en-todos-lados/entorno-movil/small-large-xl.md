@@ -1,5 +1,6 @@
 ---
 title: 'Small, large y XL: resoluciones'
+position: 11
 layout: subcapitulo
 order: 2.5.1.
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: Bloggen som refleksivt læringsrum
 permalink: fascinante-mundo/
+position: 17
 layout: capitulo
 chapter: Kernemodul 1
 comments: true

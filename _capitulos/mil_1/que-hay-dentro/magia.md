@@ -1,5 +1,6 @@
 ---
 title: 'La magia: Javascript'
+position: 25
 layout: subcapitulo
 order: 1.1.3.
 comments: true

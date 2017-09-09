@@ -1,5 +1,6 @@
 ---
 title: "¿Mejora progresiva o degradación gradual?"
+position: 44
 layout: subcapitulo
 order: 3.5.
 comments: true

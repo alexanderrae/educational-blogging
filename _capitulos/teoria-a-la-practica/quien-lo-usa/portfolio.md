@@ -1,5 +1,6 @@
 ---
 title: 'Pensando un portfolio: rediseño del sitio web personal de la autora'
+position: 40
 layout: subcapitulo
 order: 5.1.2.
 comments: true

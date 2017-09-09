@@ -1,5 +1,6 @@
 ---
 title: "¿Vertical o apaisado?: orientaciones de pantalla"
+position: 12
 layout: subcapitulo
 order: 2.5.2.
 comments: true

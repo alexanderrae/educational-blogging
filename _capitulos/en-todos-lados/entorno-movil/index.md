@@ -1,6 +1,7 @@
 ---
 title: Cuando el entorno móvil marca fronteras
 permalink: en-todos-lados/entorno-movil/
+position: 10
 layout: subcapitulo
 order: 2.5.
 comments: true

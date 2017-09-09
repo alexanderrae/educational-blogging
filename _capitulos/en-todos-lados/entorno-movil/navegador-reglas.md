@@ -1,5 +1,6 @@
 ---
 title: Cada navegador con sus reglas
+position: 9
 layout: subcapitulo
 order: 2.5.3.
 comments: true

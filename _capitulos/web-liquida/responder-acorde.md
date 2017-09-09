@@ -1,5 +1,6 @@
 ---
 title: 'Responder acorde: responsive web design'
+position: 47
 layout: subcapitulo
 order: 3.2.
 comments: true

@@ -1,5 +1,6 @@
 ---
 title: 'Ganan todos: beneficios del uso de esta práctica'
+position: 36
 layout: subcapitulo
 order: 5.2.
 comments: true

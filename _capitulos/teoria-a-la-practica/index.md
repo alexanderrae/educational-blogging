@@ -1,6 +1,7 @@
 ---
 title: 'De la teoría a la práctica: diseño web responsivo en acción'
 permalink: teoria-a-la-practica/
+position: 37
 layout: capitulo
 chapter: Capítulo 5
 comments: true

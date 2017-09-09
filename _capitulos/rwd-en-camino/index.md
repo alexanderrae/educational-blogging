@@ -1,6 +1,7 @@
 ---
 title: "¡Manos a la obra! Responsive web design en camino"
 permalink: rwd-en-camino/
+position: 31
 layout: capitulo
 chapter: Capítulo 4
 comments: true

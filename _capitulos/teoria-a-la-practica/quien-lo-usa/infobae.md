@@ -1,5 +1,6 @@
 ---
 title: 'Responsive web design en las grandes ligas: Infobae'
+position: 39
 layout: subcapitulo
 order: 5.1.1.
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: 'La red al alcance de la mano: dispositivos móviles'
 permalink: en-todos-lados/red-al-alcance/
+position: 14
 layout: subcapitulo
 order: 2.1.
 comments: true

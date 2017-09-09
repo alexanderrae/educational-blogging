@@ -1,6 +1,7 @@
 ---
 title: La Web líquida
 permalink: web-liquida/
+position: 43
 layout: capitulo
 chapter: Capítulo 3
 comments: true

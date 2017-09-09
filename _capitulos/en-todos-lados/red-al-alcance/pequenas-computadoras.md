@@ -1,5 +1,6 @@
 ---
 title: 'Pequeñas computadoras: tablets'
+position: 15
 layout: subcapitulo
 order: 2.1.2.
 comments: true

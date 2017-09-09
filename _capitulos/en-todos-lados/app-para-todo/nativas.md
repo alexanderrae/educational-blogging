@@ -1,5 +1,6 @@
 ---
 title: Aplicaciones nativas
+position: 7
 layout: subcapitulo
 order: 2.4.1.
 comments: true

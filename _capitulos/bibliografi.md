@@ -1,5 +1,6 @@
 ---
 title: Bibliografi
+position: 46
 layout: appendix
 comments: true
 ---

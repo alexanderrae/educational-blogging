@@ -1,5 +1,6 @@
 ---
 title: 'Verdaderos tipos móviles: fuentes adaptables'
+position: 34
 layout: subcapitulo
 order: 4.3.
 comments: true

@@ -1,5 +1,6 @@
 ---
 title: Adaptar o morir
+position: 41
 layout: subcapitulo
 order: 3.1.
 comments: true
