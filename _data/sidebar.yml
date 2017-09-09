@@ -1,7 +1,7 @@
 - title: "Introduktion"
-  url: introduccion
+  url: introduktion
 - title: "MIL 1.1 : IKT-baserede læreprocesser"
-  url: fascinante-mundo
+  url: mil-1-dot-1
   subcaps:
   - url: que-hay-dentro
     title: "¿Qué hay dentro de un sitio web?"
