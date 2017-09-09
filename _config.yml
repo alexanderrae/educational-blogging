@@ -18,7 +18,7 @@ defaults:
     type: capitulos
   values:
     layout: capitulo
-tagline: et praktisk forsøg på at blogge mig igennem MIL
+tagline: et praktisk forsøg på at blogge sig igennem MIL
 url: http://alexanderrae.github.io
 paginate: 1
 baseurl: "/"
