@@ -1,14 +1,16 @@
 ---
 layout: capitulo
-chapter: "Kapitel 1"
+chapter: "Kernemodul 1"
 title: "Bloggen som refleksivt læringsrum"
 comments: true
 permalink: fascinante-mundo/
 ---
 
-Da denne side er oprettet med henblik på at anvende weblog-formatet som virtuelt refleksionsrum, er det passende at det første indlæg kommmer til at handle om netop dét.
+Da denne side er oprettet med henblik på at anvende weblog-formatet som virtuelt refleksionsrum i forbindelse med mit studie på Master i IKT og Læring, er det i høj grad sammenhængende med at dette var et gennemgående tema for første kernemodul. 
 
-Vi er blevet stillet en opgave, der lyder på at vi skal indtage nogle roller i et virtuelt debatforum, for at diskutere en påstand. Denne påstand har jeg nu for opgave at formulere, da min rolle er "Fremsætter". 
+Første seminar fandt sted i Aalborg, fra d. 7. til d. 9. september 2017.
 
+Forelæserne var Elsebeth Korsgaard Sørensen (AAU), Jørgen Lerche Nielsen (RUC) og Hanne Voldborg Andersen (AAU).
+ 
 ...
 
