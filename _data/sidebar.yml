@@ -3,15 +3,8 @@
 - title: "MIL 1.1 : IKT-baserede læreprocesser"
   url: mil-1-dot-1
   subcaps:
-  - url: que-hay-dentro
-    title: "¿Qué hay dentro de un sitio web?"
+  - url: ikt-baserede-læringsmiljøer
+    title: "IKT-baserede læringsmiljøer"
     subsubcaps:
-      - url: armazon
-        title: "El armazón: HTML"
-      - url: maquillaje
-        title: "El maquillaje: CSS"
-      - url: magia
-        title: "La magia: Javascript"
-      - url: logica
-        title: "La lógica: lenguajes de programación del lado del servidor"
-  
+      - url: weblogs
+        title: "Blogs"
