@@ -1,6 +1,6 @@
 ---
-title: Multiplicidad Digital
-timezone: UTC
+title: educational blogging
+timezone: Europe/Copenhagen
 collections:
   capitulos:
     title: Capitulos
@@ -18,13 +18,13 @@ defaults:
     type: capitulos
   values:
     layout: capitulo
-tagline: Hacia la expansión de interfaces web para dispositivos móviles
+tagline: et praktisk forsøg på at blogge mig igennem MIL
 url: http://alexanderrae.github.io
 paginate: 1
 baseurl: "/"
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 author:
   name: Alexander Råe
   url: https://alexanderrae.github.io
