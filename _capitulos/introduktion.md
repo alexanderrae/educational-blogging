@@ -1,7 +1,7 @@
 ---
 title: Introduktion
 position: 1
-comments: true
+comments: false
 layout: appendix
 ---
 
