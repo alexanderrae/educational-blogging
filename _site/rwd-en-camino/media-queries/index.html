@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Condicionar las reglas: media queries &middot; Multiplicidad Digital
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="//css/main.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="//public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="Multiplicidad Digital" href="//atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="wrapper">
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="//" title="Home">
+            <span class="title-multiplicidad">educational</span>
+            <span class="title-digital">blogging</span>
+          </a>
+          <small>Hacia la expansión de interfaces web para dispositivos móviles</small>
+        </h3>
+      </header>
+
+      <div class="container">
+        <aside class="site-sidebar">
+
+    <div class="menu-mobile">
+	<select onchange="if (this.value) window.location.href=this.value">
+    	<option value="">Navegación</option>
+	
+	    <option value="//introduccion" class="menu-level1">Introduktion</option>
+	    
+	
+	    <option value="//fascinante-mundo" class="menu-level1">El fascinante mundo del diseño web</option>
+	    
+	        
+
+
+<ul>
+
+  
+
+  <option value="//fascinante-mundo/que-hay-dentro" class="menu-level2" >¿Qué hay dentro de un sitio web?</option>
+  
+    
+      
+      <option value="//fascinante-mundo/que-hay-dentro/armazon" class="menu-level3" >El armazón: HTML</a></li>
+    
+      
+      <option value="//fascinante-mundo/que-hay-dentro/maquillaje" class="menu-level3" >El maquillaje: CSS</a></li>
+    
+      
+      <option value="//fascinante-mundo/que-hay-dentro/magia" class="menu-level3" >La magia: Javascript</a></li>
+    
+      
+      <option value="//fascinante-mundo/que-hay-dentro/logica" class="menu-level3" >La lógica: lenguajes de programación del lado del servidor</a></li>
+    
+  
+
+
+  
+
+  <option value="//fascinante-mundo/surfeando-la-web" class="menu-level2" >Surfeando la Web: los navegadores</option>
+  
+
+
+  
+
+  <option value="//fascinante-mundo/navegantes-satisfechos" class="menu-level2" >Navegantes satisfechos: la experiencia de usuario</option>
+  
+    
+      
+      <option value="//fascinante-mundo/navegantes-satisfechos/facilitando-caminos" class="menu-level3" >Facilitando caminos mediante la usabilidad</a></li>
+    
+      
+      <option value="//fascinante-mundo/navegantes-satisfechos/accesibilidad" class="menu-level3" >Accesibilidad para todos y todas</a></li>
+    
+  
+
+
+
+	    
+	
+	    <option value="//en-todos-lados" class="menu-level1">La Web en todos lados</option>
+	    
+	        
+
+
+<ul>
+
+  
+
+  <option value="//en-todos-lados/red-al-alcance" class="menu-level2" >La red al alcance de la mano: dispositivos móviles</option>
+  
+    
+      
+      <option value="//en-todos-lados/red-al-alcance/telefonos-pensantes" class="menu-level3" >Teléfonos pensantes: smartphones</a></li>
+    
+      
+      <option value="//en-todos-lados/red-al-alcance/pequenas-computadoras" class="menu-level3" >Pequeñas computadoras: tablets</a></li>
+    
+      
+      <option value="//en-todos-lados/red-al-alcance/aun-mas" class="menu-level3" >¿Aún más?: otras clases de dispositivos</a></li>
+    
+  
+
+
+  
+
+  <option value="//en-todos-lados/creciente-avance" class="menu-level2" >El creciente avance de las plataformas móviles</option>
+  
+
+
+  
+
+  <option value="//en-todos-lados/bicho-raro" class="menu-level2" >Un bicho raro: el usuario móvil</option>
+  
+
+
+  
+
+  <option value="//en-todos-lados/app-para-todo" class="menu-level2" >Hay una app para todo</option>
+  
+    
+      
+      <option value="//en-todos-lados/app-para-todo/nativas" class="menu-level3" >Aplicaciones nativas</a></li>
+    
+      
+      <option value="//en-todos-lados/app-para-todo/web" class="menu-level3" >Aplicaciones web</a></li>
+    
+      
+      <option value="//en-todos-lados/app-para-todo/hibridas" class="menu-level3" >Aplicaciones híbridas</a></li>
+    
+  
+
+
+  
+
+  <option value="//en-todos-lados/entorno-movil" class="menu-level2" >Cuando el entorno móvil marca fronteras</option>
+  
+    
+      
+      <option value="//en-todos-lados/entorno-movil/small-large-xl" class="menu-level3" >Small, large y XL: resoluciones</a></li>
+    
+      
+      <option value="//en-todos-lados/entorno-movil/vertical-o-apaisado" class="menu-level3" >¿Vertical o apaisado?: orientaciones de pantalla</a></li>
+    
+      
+      <option value="//en-todos-lados/entorno-movil/navegador-reglas" class="menu-level3" >Cada navegador con sus reglas</a></li>
+    
+  
+
+
+
+	    
+	
+	    <option value="//web-liquida" class="menu-level1">La Web líquida</option>
+	    
+	        
+
+
+<ul>
+
+  
+
+  <option value="//web-liquida/adaptar-o-morir" class="menu-level2" >Adaptar o morir</option>
+  
+
+
+  
+
+  <option value="//web-liquida/responder-acorde" class="menu-level2" >Responder acorde: responsive web design</option>
+  
+
+
+  
+
+  <option value="//web-liquida/disenar-responsivamente" class="menu-level2" >¿Uno, dos o cinco? Diseñar responsivamente en vez de por separado</option>
+  
+
+
+  
+
+  <option value="//web-liquida/mobile-first" class="menu-level2" >Avancen los móviles: la filosofía mobile first</option>
+  
+
+
+  
+
+  <option value="//web-liquida/mejora-degradacion" class="menu-level2" >¿Mejora progresiva o degradación gradual?</option>
+  
+
+
+
+	    
+	
+	    <option value="//rwd-en-camino" class="menu-level1">¡Manos a la obra! Responsive web design en camino</option>
+	    
+	        
+
+
+<ul>
+
+  
+
+  <option value="//rwd-en-camino/media-queries" class="menu-level2" >Condicionar las reglas: media queries</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/unidades-flexibles" class="menu-level2" >Medir relativamente con unidades flexibles</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/tipos-moviles" class="menu-level2" >Verdaderos tipos móviles: fuentes adaptables</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/imagenes-elasticas" class="menu-level2" >Imágenes elásticas</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/sistemas-de-grillas" class="menu-level2" >Cada cosa en su lugar: sistemas de grillas</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/cerrando-grietas" class="menu-level2" >Cerrando grietas con polyfills</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/era-touch" class="menu-level2" >La era touch: gestos táctiles</option>
+  
+
+
+  
+
+  <option value="//rwd-en-camino/frameworks" class="menu-level2" >Marche un combo para llevar: frameworks</option>
+  
+
+
+
+	    
+	
+	    <option value="//teoria-a-la-practica" class="menu-level1">De la teoría a la práctica: diseño web responsivo en acción</option>
+	    
+	        
+
+
+<ul>
+
+  
+
+  <option value="//teoria-a-la-practica/quien-lo-usa" class="menu-level2" >¿Quién lo usa?: análisis de aplicación</option>
+  
+    
+      
+      <option value="//teoria-a-la-practica/quien-lo-usa/infobae" class="menu-level3" >Responsive web design en las grandes ligas: Infobae</a></li>
+    
+      
+      <option value="//teoria-a-la-practica/quien-lo-usa/portfolio" class="menu-level3" >Pensando un portfolio: rediseño del sitio web personal de la autora</a></li>
+    
+  
+
+
+  
+
+  <option value="//teoria-a-la-practica/ganan-todos" class="menu-level2" >Ganan todos: beneficios del uso de esta práctica</option>
+  
+
+
+
+	    
+	
+	    <option value="//conclusiones" class="menu-level1">Conclusiones</option>
+	    
+	
+	    <option value="//bibliografi" class="menu-level1">Bibliografi</option>
+	    
+	
+	</select>
+</div>
+
+
+    <div class="menu-desktop">
+    
+        <h4><a href="//introduccion">Introduktion</a></h4>
+        
+    
+        <h4><a href="//fascinante-mundo">El fascinante mundo del diseño web</a></h4>
+        
+            
+
+
+<ul>
+
+  
+
+  <li class=""><a href="//fascinante-mundo/que-hay-dentro">¿Qué hay dentro de un sitio web?</a></li>
+  
+    <ul>
+    
+      
+      <li class=""><a href="//fascinante-mundo/que-hay-dentro/armazon">El armazón: HTML</a></li>
+    
+      
+      <li class=""><a href="//fascinante-mundo/que-hay-dentro/maquillaje">El maquillaje: CSS</a></li>
+    
+      
+      <li class=""><a href="//fascinante-mundo/que-hay-dentro/magia">La magia: Javascript</a></li>
+    
+      
+      <li class=""><a href="//fascinante-mundo/que-hay-dentro/logica">La lógica: lenguajes de programación del lado del servidor</a></li>
+    
+    </ul>
+  
+
+
+  
+
+  <li class=""><a href="//fascinante-mundo/surfeando-la-web">Surfeando la Web: los navegadores</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//fascinante-mundo/navegantes-satisfechos">Navegantes satisfechos: la experiencia de usuario</a></li>
+  
+    <ul>
+    
+      
+      <li class=""><a href="//fascinante-mundo/navegantes-satisfechos/facilitando-caminos">Facilitando caminos mediante la usabilidad</a></li>
+    
+      
+      <li class=""><a href="//fascinante-mundo/navegantes-satisfechos/accesibilidad">Accesibilidad para todos y todas</a></li>
+    
+    </ul>
+  
+
+
+</ul>
+
+        
+    
+        <h4><a href="//en-todos-lados">La Web en todos lados</a></h4>
+        
+            
+
+
+<ul>
+
+  
+
+  <li class=""><a href="//en-todos-lados/red-al-alcance">La red al alcance de la mano: dispositivos móviles</a></li>
+  
+    <ul>
+    
+      
+      <li class=""><a href="//en-todos-lados/red-al-alcance/telefonos-pensantes">Teléfonos pensantes: smartphones</a></li>
+    
+      
+      <li class=""><a href="//en-todos-lados/red-al-alcance/pequenas-computadoras">Pequeñas computadoras: tablets</a></li>
+    
+      
+      <li class=""><a href="//en-todos-lados/red-al-alcance/aun-mas">¿Aún más?: otras clases de dispositivos</a></li>
+    
+    </ul>
+  
+
+
+  
+
+  <li class=""><a href="//en-todos-lados/creciente-avance">El creciente avance de las plataformas móviles</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//en-todos-lados/bicho-raro">Un bicho raro: el usuario móvil</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//en-todos-lados/app-para-todo">Hay una app para todo</a></li>
+  
+    <ul>
+    
+      
+      <li class=""><a href="//en-todos-lados/app-para-todo/nativas">Aplicaciones nativas</a></li>
+    
+      
+      <li class=""><a href="//en-todos-lados/app-para-todo/web">Aplicaciones web</a></li>
+    
+      
+      <li class=""><a href="//en-todos-lados/app-para-todo/hibridas">Aplicaciones híbridas</a></li>
+    
+    </ul>
+  
+
+
+  
+
+  <li class=""><a href="//en-todos-lados/entorno-movil">Cuando el entorno móvil marca fronteras</a></li>
+  
+    <ul>
+    
+      
+      <li class=""><a href="//en-todos-lados/entorno-movil/small-large-xl">Small, large y XL: resoluciones</a></li>
+    
+      
+      <li class=""><a href="//en-todos-lados/entorno-movil/vertical-o-apaisado">¿Vertical o apaisado?: orientaciones de pantalla</a></li>
+    
+      
+      <li class=""><a href="//en-todos-lados/entorno-movil/navegador-reglas">Cada navegador con sus reglas</a></li>
+    
+    </ul>
+  
+
+
+</ul>
+
+        
+    
+        <h4><a href="//web-liquida">La Web líquida</a></h4>
+        
+            
+
+
+<ul>
+
+  
+
+  <li class=""><a href="//web-liquida/adaptar-o-morir">Adaptar o morir</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//web-liquida/responder-acorde">Responder acorde: responsive web design</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//web-liquida/disenar-responsivamente">¿Uno, dos o cinco? Diseñar responsivamente en vez de por separado</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//web-liquida/mobile-first">Avancen los móviles: la filosofía mobile first</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//web-liquida/mejora-degradacion">¿Mejora progresiva o degradación gradual?</a></li>
+  
+
+
+</ul>
+
+        
+    
+        <h4><a href="//rwd-en-camino">¡Manos a la obra! Responsive web design en camino</a></h4>
+        
+            
+
+
+<ul>
+
+  
+
+  <li class=""><a href="//rwd-en-camino/media-queries">Condicionar las reglas: media queries</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/unidades-flexibles">Medir relativamente con unidades flexibles</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/tipos-moviles">Verdaderos tipos móviles: fuentes adaptables</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/imagenes-elasticas">Imágenes elásticas</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/sistemas-de-grillas">Cada cosa en su lugar: sistemas de grillas</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/cerrando-grietas">Cerrando grietas con polyfills</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/era-touch">La era touch: gestos táctiles</a></li>
+  
+
+
+  
+
+  <li class=""><a href="//rwd-en-camino/frameworks">Marche un combo para llevar: frameworks</a></li>
+  
+
+
+</ul>
+
+        
+    
+        <h4><a href="//teoria-a-la-practica">De la teoría a la práctica: diseño web responsivo en acción</a></h4>
+        
+            
+
+
+<ul>
+
+  
+
+  <li class=""><a href="//teoria-a-la-practica/quien-lo-usa">¿Quién lo usa?: análisis de aplicación</a></li>
+  
+    <ul>
+    
+      
+      <li class=""><a href="//teoria-a-la-practica/quien-lo-usa/infobae">Responsive web design en las grandes ligas: Infobae</a></li>
+    
+      
+      <li class=""><a href="//teoria-a-la-practica/quien-lo-usa/portfolio">Pensando un portfolio: rediseño del sitio web personal de la autora</a></li>
+    
+    </ul>
+  
+
+
+  
+
+  <li class=""><a href="//teoria-a-la-practica/ganan-todos">Ganan todos: beneficios del uso de esta práctica</a></li>
+  
+
+
+</ul>
+
+        
+    
+        <h4><a href="//conclusiones">Conclusiones</a></h4>
+        
+    
+        <h4><a href="//bibliografi">Bibliografi</a></h4>
+        
+    
+    </div>
+
+</aside>
+
+
+        <main>
+          <article class="subchapter">
+  <h1 class="subchapter-title"><small>4.1.</small> Condicionar las reglas: media queries</h1>
+  <p>La característica más destacable del diseño web responsivo es su adaptabilidad a los límites y espacios que el dispositivo de visualización le imponga. Básicamente, al diseñar siguiendo esta pauta, se le puede indicar al navegador que establezca nuevas reglas de estilo dependiendo el tamaño del contenedor, entre otras variables. Es decir, es posible reubicar, reorganizar y hasta volver a diseñar elementos de una página web para cada situación mediante una serie de comandos.</p>
+
+<p>Anteriormente se explicó que en cualquier diseño web deberían haber tres niveles separados de armado que hacen al funcionamiento integral del mismo: estructura, presentación y comportamiento. La estructura es su esqueleto, en donde a su vez se plasma el contenido embebido en etiquetas HTML. Esto le indica al navegador cómo debe mostrar los distintos elementos. Donde realmente se evidencia el diseño es en la capa de presentación. Ésta se caracteriza por dictar una serie de órdenes sobre cómo interpretar cada elemento gráficamente. Es aquí donde se definen los colores, tamaños, ubicaciones y variables estilísticas de todos los componentes visuales de una página. Para estas declaraciones se utiliza el lenguaje CSS, y es en este nivel donde las mismas reglas de estilo pueden ser replanteadas dinámicamente. El comportamiento puede servir como complemento para optimizar la experiencia en variados entornos, pero en términos generales, no debería ser en este nivel donde se marquen pautas de visualización al navegador.</p>
+
+<p>Ya que al diseñar responsivamente se está sirviendo únicamente un mismo archivo HTML, es necesario hacer la separación de <em>layouts</em> mediante una indicación al navegador para que levante una u otra hoja de estilo, o si se unifica todo en una sola señalarle qué declaraciones en ella específicamente deben ser interpretadas en cada situación. Para lo primero, se utiliza el atributo <em>media</em> en la llamada a cada documento CSS. En el segundo caso se hace mediante un bloque <code class="highlighter-rouge">@media</code> en la hoja de estilos.</p>
+
+<p>Desde la versión 2 de CSS, <code class="highlighter-rouge">media</code> puede recibir valores para distintos tipos de casos: <code class="highlighter-rouge">screen</code> para la visualización en pantalla, <code class="highlighter-rouge">print</code> para impresión, entre otros no tan utilizados como <code class="highlighter-rouge">tv</code> o <code class="highlighter-rouge">handheld</code>. Por defecto se aplica <code class="highlighter-rouge">all</code>, que unifica todo el espectro. Es decir, si se declara que <code class="highlighter-rouge">media</code> es igual a <code class="highlighter-rouge">screen</code>, todas las instrucciones CSS allí definidas serán únicamente aplicables cuando se muestre ese sitio en una pantalla. Caso contrario, si equivale a <code class="highlighter-rouge">print</code>, esos estilos serán aplicados al momento de impresión de la página. Esto es útil ya que el soporte es diferente, por lo tanto es necesario adaptar la presentación del contenido para que sea óptimo en la mayoría de las situaciones. Exactamente lo mismo ocurre cuando se diseña para dispositivos móviles, ya que surge la necesidad de dar prioridad a la presentación del contenido en las mejores condiciones. Sin embargo, con definir meramente este valor no es posible separar estilos para diferentes pantallas, ya que <code class="highlighter-rouge">screen</code> apunta a todas ellas por igual.</p>
+
+<p>Desde la introducción de CSS3, algunos de sus módulos ya han sido estandarizados por la W3C, como es el caso de las <em>media queries</em>. “Las media queries permiten definir los estilos que deben aplicarse en determinadas circunstancias dependiendo los valores de características como resolución, profundidad de color, la altura y el ancho” (Kadlec, 2012, p. 54) del área visible del dispositivo. Éstas son condiciones que se adicionan al atributo <code class="highlighter-rouge">media</code> y permiten limitar el entorno al que se aplica un conjunto de declaraciones de estilo. Estas variables permiten, entre otras cosas, indicar puntos de quiebre en una estructura, conocidos técnicamente como <em>breakpoints</em>, sobre los cuales se harán las distinciones. Los valores que toman son generalmente dictados por convención, y responden a números derivados de resoluciones estándares de diversos dispositivos. En el segundo capítulo, al hablar de resoluciones y orientaciones de pantalla, se presentaron algunos números de referencia. Estos <em>breakpoints</em> dividen el flujo del contenido y la estructura, presentando así diferentes <em>layouts</em> según sus valores. Generalmente, se utilizan únicamente segmentaciones basadas en el ancho de la ventana gráfica con las declaraciones <code class="highlighter-rouge">max-width</code> y <code class="highlighter-rouge">min-width</code>, es decir, el ancho máximo y mínimo que ésta debe tener para que las consiguientes reglas de estilo le sean aplicadas. A su vez, se pueden crear condiciones complejas al juntar varios atributos mediante operadores como <code class="highlighter-rouge">and</code>, <code class="highlighter-rouge">or</code>, y <code class="highlighter-rouge">not</code>, los cuales enriquecen los límites impuestos en la <em>media query</em>.</p>
+
+<p>Las dos maneras de incluirlas, tanto desde la etiqueta <code class="highlighter-rouge">&lt;link&gt;</code> en el HTML como desde un bloque <code class="highlighter-rouge">@media</code> en el CSS, son ilustradas en la <a href="../../anexo">Figura 6: Declaraciones de <em>media queries</em></a>.</p>
+
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    <div class="section-nav">
+      <div class="left align-right">
+          
+            
+            
+            <a href="//rwd-en-camino/" class="prev">&laquo; Anterior</a>
+          
+      </div>
+      <div class="right align-left">
+          
+            
+            
+            <a href="//rwd-en-camino/unidades-flexibles/" class="next">Siguiente &raquo;</a>
+          
+      </div>
+    </div>
+    
+
+
+  
+  	<hr>
+  	<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'alexanderrae-github-io';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+  
+</article>
+
+        </main>
+      </div>
+
+      <footer class="footer">
+        <div class="social">
+            <a href="https://twitter.com/urbanskurk" title="Twitter: @urbanskurk"><span class="icon-twitter"></span></a>
+            <a href="https://www.linkedin.com/in/alexander-holm-02498114a/" title="LinkedIn: Alexander"><span class="icon-linkedin"></span></a>
+        </div>
+        <div class="disclaimer">
+          &copy; <time datetime="2017-09-09T22:01:57+02:00">2017</time>. <a href="https://alexanderrae.github.io">Alexander Råe Holm</a>.
+          <small>Todos los derechos reservados.</small>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63401048-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+</html>
