@@ -1,15 +1,13 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           :title
-relative_permalinks: true
+
 
 # Setup
 title:               Multiplicidad Digital
 tagline:             Hacia la expansión de interfaces web para dispositivos móviles
-url:                 http://amireynoso.github.io/multiplicidad
+url:                 http://alexanderrae.github.io
 paginate:            1
-baseurl:             "/multiplicidad"
+baseurl:             "/index.html"
 
 # Assets
 #
@@ -20,14 +18,14 @@ sass:
 
 # About/contact
 author:
-  name:              Ami Reynoso
-  url:               http://amireynoso.com.ar
-  email:             amireynoso@gmail.com
+  name:              Alexander Råe
+  url:               https://alexanderrae.github.io
+  email:             chri0a77@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              "https://github.com/amireynoso/multiplicidad"
+  repo:              "https://github.com/alexanderrae/alexanderrae.github.io"
 
 # Collection
 collections:
