@@ -1,7 +1,7 @@
 ---
+title: 'El armazón: HTML'
 layout: subcapitulo
-order: "1.1.1."
-title: "El armazón: HTML"
+order: 1.1.1.
 comments: true
 ---
 

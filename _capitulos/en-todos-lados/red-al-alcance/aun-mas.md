@@ -1,7 +1,7 @@
 ---
-layout: subcapitulo
-order: "2.1.3"
 title: "¿Aún más?, otras clases de dispositivos"
+layout: subcapitulo
+order: 2.1.3
 comments: true
 ---
 

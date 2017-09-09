@@ -1,7 +1,7 @@
 ---
+title: 'Surfeando la Web: los navegadores'
 layout: subcapitulo
-order: "1.2."
-title: "Surfeando la Web: los navegadores"
+order: 1.2.
 comments: true
 ---
 

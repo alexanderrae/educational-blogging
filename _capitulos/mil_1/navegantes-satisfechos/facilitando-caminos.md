@@ -1,7 +1,7 @@
 ---
+title: Facilitando caminos mediante la usabilidad
 layout: subcapitulo
-order: "1.3.1."
-title: "Facilitando caminos mediante la usabilidad"
+order: 1.3.1.
 comments: true
 ---
 

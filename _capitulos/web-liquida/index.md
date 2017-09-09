@@ -1,9 +1,9 @@
 ---
-layout: capitulo
-chapter: "Capítulo 3"
-title: "La Web líquida"
-comments: true
+title: La Web líquida
 permalink: web-liquida/
+layout: capitulo
+chapter: Capítulo 3
+comments: true
 ---
 
 En el primer capítulo se han delineado las variables que deben ser tenidas en cuenta, a grandes rasgos, para desarrollar una página web, aunque básica. Es mediante el permanente estudio e interés por investigar y aprender, además de la experiencia práctica, la manera en que un profesional se forma en esta área. Quien ya se encuentre instruido y posea la habilidad para crear, encontrará en su carrera profesional, inevitablemente, la necesidad de portar sus conocimientos al mundo _mobile_.

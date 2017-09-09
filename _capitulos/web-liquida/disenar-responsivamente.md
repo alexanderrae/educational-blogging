@@ -1,7 +1,7 @@
 ---
-layout: subcapitulo
-order: "3.3."
 title: "¿Uno, dos o cinco? Diseñar responsivamente en vez de por separado"
+layout: subcapitulo
+order: 3.3.
 comments: true
 ---
 

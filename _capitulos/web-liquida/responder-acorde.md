@@ -1,7 +1,7 @@
 ---
+title: 'Responder acorde: responsive web design'
 layout: subcapitulo
-order: "3.2."
-title: "Responder acorde: responsive web design"
+order: 3.2.
 comments: true
 ---
 

@@ -1,41 +1,34 @@
-# Permalinks
-#
-
-
-# Setup
-title:               Multiplicidad Digital
-tagline:             Hacia la expansión de interfaces web para dispositivos móviles
-url:                 http://alexanderrae.github.io
-paginate:            1
-baseurl:             "/"
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Alexander Råe
-  url:               https://alexanderrae.github.io
-  email:             chri0a77@gmail.com
-
-# Custom vars
-version:             1.0.0
-github:
-  repo:              "https://github.com/alexanderrae/alexanderrae.github.io"
-
-# Collection
+---
+title: Multiplicidad Digital
+timezone: UTC
 collections:
   capitulos:
-    output: 		true
-    permalink: 		/:path/
-
+    title: Capitulos
+    output: true
+    permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: ""
-      type: capitulos
-    values:
-      layout: capitulo
+- scope:
+    path: ''
+    type: capitulos
+  values:
+    layout: capitulo
+tagline: Hacia la expansión de interfaces web para dispositivos móviles
+url: http://alexanderrae.github.io
+paginate: 1
+baseurl: "/"
+sass:
+  sass_dir: _sass
+  style: :compressed
+author:
+  name: Alexander Råe
+  url: https://alexanderrae.github.io
+  email: chri0a77@gmail.com
+version: 1.0.0
+github:
+  repo: https://github.com/alexanderrae/alexanderrae.github.io

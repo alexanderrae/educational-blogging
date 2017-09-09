@@ -1,9 +1,9 @@
 ---
-layout: subcapitulo
-order: "2.1."
-title: "La red al alcance de la mano: dispositivos móviles"
-comments: true
+title: 'La red al alcance de la mano: dispositivos móviles'
 permalink: en-todos-lados/red-al-alcance/
+layout: subcapitulo
+order: 2.1.
+comments: true
 ---
 
 La diversidad de aparatos que pueden ser clasificados como dispositivos portátiles para el contexto de este ensayo es amplia. No sólo se consideran las plataformas dentro del ámbito de la telefonía móvil – celulares – sino que con el correr de la última década y media han surgido nuevos instrumentos con funcionalidades equivalentes pero que, en algunos casos, prescinden del factor telefónico.

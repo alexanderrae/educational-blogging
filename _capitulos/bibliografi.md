@@ -1,6 +1,6 @@
 ---
+title: Bibliografi
 layout: appendix
-title: "Bibliografi"
 comments: true
 ---
 

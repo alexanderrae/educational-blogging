@@ -1,7 +1,7 @@
 ---
+title: Aplicaciones web
 layout: subcapitulo
-order: "2.4.2."
-title: "Aplicaciones web"
+order: 2.4.2.
 comments: true
 ---
 

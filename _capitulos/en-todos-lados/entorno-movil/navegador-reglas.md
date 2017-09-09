@@ -1,7 +1,7 @@
 ---
+title: Cada navegador con sus reglas
 layout: subcapitulo
-order: "2.5.3."
-title: "Cada navegador con sus reglas"
+order: 2.5.3.
 comments: true
 ---
 

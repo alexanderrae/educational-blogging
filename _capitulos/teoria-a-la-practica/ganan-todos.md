@@ -1,7 +1,7 @@
 ---
+title: 'Ganan todos: beneficios del uso de esta práctica'
 layout: subcapitulo
-order: "5.2."
-title: "Ganan todos: beneficios del uso de esta práctica"
+order: 5.2.
 comments: true
 ---
 

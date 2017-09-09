@@ -1,7 +1,7 @@
 ---
+title: 'Responsive web design en las grandes ligas: Infobae'
 layout: subcapitulo
-order: "5.1.1."
-title: "Responsive web design en las grandes ligas: Infobae"
+order: 5.1.1.
 comments: true
 ---
 

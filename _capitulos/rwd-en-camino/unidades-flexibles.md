@@ -1,7 +1,7 @@
 ---
+title: Medir relativamente con unidades flexibles
 layout: subcapitulo
-order: "4.2."
-title: "Medir relativamente con unidades flexibles"
+order: 4.2.
 comments: true
 ---
 

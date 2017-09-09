@@ -1,7 +1,7 @@
 ---
+title: 'Pensando un portfolio: rediseño del sitio web personal de la autora'
 layout: subcapitulo
-order: "5.1.2."
-title: "Pensando un portfolio: rediseño del sitio web personal de la autora"
+order: 5.1.2.
 comments: true
 ---
 

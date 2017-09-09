@@ -1,9 +1,9 @@
 ---
-layout: capitulo
-chapter: "Capítulo 5"
-title: "De la teoría a la práctica: diseño web responsivo en acción"
-comments: true
+title: 'De la teoría a la práctica: diseño web responsivo en acción'
 permalink: teoria-a-la-practica/
+layout: capitulo
+chapter: Capítulo 5
+comments: true
 ---
 
 A lo largo del desarrollo de este Ensayo, se han presentado desde conceptos inherentes al diseño web en sus bases hasta nociones cada vez más específicas que moldean el _workflow_ en la actualidad profesional dentro de este campo. Se ha tratado de recorrer junto al lector un camino que se apega a las buenas prácticas, y de ofrecerle a éste herramientas útiles que le permitan mejorar su propio trabajo. Todo esto se ha hecho, sin embargo, desde la teoría y mediante la explicación de situaciones cotidianas y ejemplos prácticos, para que él mismo pueda armar las piezas del conocimiento junto con las que ya posee, de forma que construya su propio flujo de trabajo adaptable a su realidad.

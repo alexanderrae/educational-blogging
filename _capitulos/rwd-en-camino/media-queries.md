@@ -1,7 +1,7 @@
 ---
+title: 'Condicionar las reglas: media queries'
 layout: subcapitulo
-order: "4.1."
-title: "Condicionar las reglas: media queries"
+order: 4.1.
 comments: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: capitulo
-chapter: "Capítulo 4"
 title: "¡Manos a la obra! Responsive web design en camino"
-comments: true
 permalink: rwd-en-camino/
+layout: capitulo
+chapter: Capítulo 4
+comments: true
 ---
 
 El avance de la tecnología móvil ha sabido insertarse en la sociedad de consumo a ritmos cada vez mayores. Esto proporciona nuevas vías de entrada a la _World Wide Web_, la cual debe ser moldeada para ofrecer sus contenidos a cada usuario sin importar el entorno. Su maleabilidad es una característica propia e innata que puede ser trabajada y explotada al máximo para servir al propósito que todos los diseñadores y desarrolladores avocados a la Web deberían perseguir: la masividad y efectividad de conversión de sus productos _online_.

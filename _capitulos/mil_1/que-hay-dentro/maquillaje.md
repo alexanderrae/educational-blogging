@@ -1,7 +1,7 @@
 ---
+title: 'El maquillaje: CSS'
 layout: subcapitulo
-order: "1.1.2."
-title: "El maquillaje: CSS"
+order: 1.1.2.
 comments: true
 ---
 

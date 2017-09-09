@@ -1,7 +1,7 @@
 ---
+title: Aplicaciones híbridas
 layout: subcapitulo
-order: "2.4.3."
-title: "Aplicaciones híbridas"
+order: 2.4.3.
 comments: true
 ---
 

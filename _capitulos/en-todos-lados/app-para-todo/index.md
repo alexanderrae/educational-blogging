@@ -1,9 +1,9 @@
 ---
-layout: subcapitulo
-order: "2.4."
-title: "Hay una app para todo"
-comments: true
+title: Hay una app para todo
 permalink: en-todos-lados/app-para-todo/
+layout: subcapitulo
+order: 2.4.
+comments: true
 ---
 
 Actualmente este término es utilizado constantemente para referirse a una de las maneras de interactuar digitalmente con un dispositivo, ya sea móvil o no. Son comunmente llamadas _apps_, por la abreviación del término en inglés, _application_. Pero, ¿qué son realmente?

@@ -1,7 +1,7 @@
 ---
+title: 'Small, large y XL: resoluciones'
 layout: subcapitulo
-order: "2.5.1."
-title: "Small, large y XL: resoluciones"
+order: 2.5.1.
 comments: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: capitulo
-chapter: "Capítulo 2"
-title: "La Web en todos lados"
-comments: true
+title: La Web en todos lados
 permalink: en-todos-lados/
+layout: capitulo
+chapter: Capítulo 2
+comments: true
 ---
 
 En términos generales, cualquier sitio web se construye en base a las tecnologías introducidas en el primer capítulo. Entendiendo y aplicando los conceptos presentados, el lector puede generar una página básica. El espectro del diseño web es mucho más amplio que lo presentado aquí, y la concepción de un producto de calidad depende de la creatividad y la correcta utilización de las tecnologías dentro de las buenas prácticas por parte cada autor. Se entiende por tales al seguimiento de los estándares de la W3C y otras convenciones, como la _Guía de Estilos de HTML/CSS_ de Google.

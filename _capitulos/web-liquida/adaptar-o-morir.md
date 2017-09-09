@@ -1,7 +1,7 @@
 ---
+title: Adaptar o morir
 layout: subcapitulo
-order: "3.1."
-title: "Adaptar o morir"
+order: 3.1.
 comments: true
 ---
 

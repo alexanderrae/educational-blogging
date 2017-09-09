@@ -1,7 +1,7 @@
 ---
+title: 'La magia: Javascript'
 layout: subcapitulo
-order: "1.1.3."
-title: "La magia: Javascript"
+order: 1.1.3.
 comments: true
 ---
 

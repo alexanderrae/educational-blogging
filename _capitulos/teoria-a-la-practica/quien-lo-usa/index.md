@@ -1,9 +1,9 @@
 ---
-layout: subcapitulo
-order: "5.1."
 title: "¿Quién lo usa?: análisis de aplicación"
-comments: true
 permalink: teoria-a-la-practica/quien-lo-usa/
+layout: subcapitulo
+order: 5.1.
+comments: true
 ---
 
 Para delinear un panorama general de la escena local, se realiza un relevamiento de los sitios más visitados por los argentinos a la fecha (junio 2014), para luego analizarlos, en rasgos generales, en la manera de manejar a sus usuarios móviles. Tomando como base los datos estadísticos proporcionados por Alexa (2014), la empresa de medición de data sobre tráfico en Internet considerada más confiable, se seleccionan los primeros diez portales nacionales que figuran en su lista de sitios más visitados por los argentinos. Es pertinente aclarar que en ella se listan también variados sitios globales, pero el fin de este análisis es tomar únicamente los que tienen base en el país. Por orden de mayor a menor cantidad de visitas se ubican: [Mercado Libre](http://mercadolibre.com.ar), [La Nación](http://lanacion.com.ar), [Clarín](http://clarin.com), [Infobae](http://infobae.com), [Taringa!](http://taringa.net), [Olé](http://ole.com.ar), [TN](http://tn.com.ar), [Santander Río](http://santanderrio.com.ar), [Ciudad.com](http://ciudad.com) y [Minutouno.com](http://minutouno.com).

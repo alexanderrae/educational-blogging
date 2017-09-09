@@ -1,7 +1,7 @@
 ---
+title: 'Avancen los móviles: la filosofía mobile first'
 layout: subcapitulo
-order: "3.4."
-title: "Avancen los móviles: la filosofía mobile first"
+order: 3.4.
 comments: true
 ---
 

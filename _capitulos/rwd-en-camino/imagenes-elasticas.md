@@ -1,7 +1,7 @@
 ---
+title: Imágenes elásticas
 layout: subcapitulo
-order: "4.4."
-title: "Imágenes elásticas"
+order: 4.4.
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
+title: 'Verdaderos tipos móviles: fuentes adaptables'
 layout: subcapitulo
-order: "4.3."
-title: "Verdaderos tipos móviles: fuentes adaptables"
+order: 4.3.
 comments: true
 ---
 
