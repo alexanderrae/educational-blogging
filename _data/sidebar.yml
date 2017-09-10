@@ -7,5 +7,8 @@
     title: "Det refleksive potientiale i digitale læringsnetværk"
   - url: bloggen-som-refleksionsvaerktoej-i-egen-praksis
     title: "Bloggen som refleksionsværktøj i egen praksis"
+    subsubcaps:
+    -url: bloggen-tager-form
+    title: "Bloggen tager form"
 - title: "Litteraturliste"
   url: bibliografi
