@@ -1,6 +1,6 @@
 ---
 title: Kernemodul 1
-date: 2017-09-10 20:38:00 +02:00
+date: 2017-09-09 20:38:00 +02:00
 ---
 
 Første seminar på MIL 1 foregik i Aalborg, fra d. 7. til den 9. september, 2017.
