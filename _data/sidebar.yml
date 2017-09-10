@@ -3,8 +3,8 @@
 - title: "MIL 1.1 : IKT-baserede læreprocesser"
   url: mil-1-dot-1
   subcaps:
-  - url: det-refleksive-potentiale-i-digitale-laeringsnetvaerk
-    title: "Det refleksive potientiale i digitale læringsnetværk"
-  subcaps:
   - url: bloggen-som-refleksionsvaerktoej-i-egen-praksis
     title: "Bloggen som refleksionsværktøj i egen praksis"
+      subcaps:
+      - url: det-refleksive-potentiale-i-digitale-laeringsnetvaerk
+        title: "Det refleksive potientiale i digitale læringsnetværk"
