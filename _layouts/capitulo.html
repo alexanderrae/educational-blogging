@@ -5,6 +5,7 @@ layout: default
 <article class="chapter">
   <h1 class="chapter-title">{{ page.chapter }}</h1>
   <h2 class="chapter-subtitle">{{ page.title }}</h2>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
 
   {% include nav_interna.html %}
