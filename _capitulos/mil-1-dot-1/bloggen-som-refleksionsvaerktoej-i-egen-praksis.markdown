@@ -9,4 +9,4 @@ Jeg roder pt. meget rundt i opsætningen af bloggen - det har vist sig at være 
 
 Jeg tror at strukturen for siden er nogenlunde på plads til den forestående opgave, og den kan hurtigt udvides med flere kapitler, bibliografi osv.
 
-Det store problem er: Kan jeg holde en dialog kørende med mig selv i to år :-/
+Det store spørgsmål er dog: Kan jeg holde en dialog kørende med mig selv i to år :-/
