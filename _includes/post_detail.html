@@ -1,3 +1,9 @@
+<h3 class="timestamp">
+{% if page.date % }
+    { page.date }
+{% endif % }
+</h3>
+
 <h1 class="entry-title">
 {% if page.title %}
     <a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
