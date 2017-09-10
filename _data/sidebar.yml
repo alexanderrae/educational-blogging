@@ -5,6 +5,5 @@
   subcaps:
   - url: bloggen-som-refleksionsvaerktoej-i-egen-praksis
     title: "Bloggen som refleksionsværktøj i egen praksis"
-      subcaps:
-      - url: det-refleksive-potentiale-i-digitale-laeringsnetvaerk
-        title: "Det refleksive potientiale i digitale læringsnetværk"
+  - url: det-refleksive-potentiale-i-digitale-laeringsnetvaerk
+    title: "Det refleksive potientiale i digitale læringsnetværk"
