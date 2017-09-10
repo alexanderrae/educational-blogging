@@ -1,6 +1,6 @@
 ---
 title: Bibliografi
-date: 2017-09-07 09:38:00 +02:00
+date: 2017-09-28 09:38:00 +02:00
 position: 46
 comments: false
 layout: appendix
