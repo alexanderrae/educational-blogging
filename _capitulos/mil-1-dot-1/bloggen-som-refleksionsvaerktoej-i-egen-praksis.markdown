@@ -1,7 +1,7 @@
 ---
 title: Bloggen som refleksionsværktøj i egen praksis
 date: 2017-09-10 11:00:00 +02:00
-position: 0
+position: 1
 comments: true
 ---
 
