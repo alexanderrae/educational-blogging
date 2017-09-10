@@ -1,5 +1,5 @@
 ---
-title: Bibliografi
+title: Litteraturliste
 date: 2017-09-08 09:38:00 +02:00
 position: 46
 comments: false
