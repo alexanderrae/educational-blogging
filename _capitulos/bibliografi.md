@@ -6,5 +6,6 @@ comments: false
 layout: appendix
 ---
 
-* Downes, S. (2004). _Educational Blogging_. EDUCAUSE review, 39(5):14–26.
+* Downes, S. (2004). *Educational Blogging*. EDUCAUSE review, 39(5):14–26.
 
+* Darsø, L. (2013). *Innovationspædagogik: kunsten at fremelske innovationskompetence*. Frederiksberg: Samfundslitteratur.
