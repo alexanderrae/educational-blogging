@@ -6,6 +6,8 @@ comments: false
 layout: appendix
 ---
 
-* Downes, S. (2004). *Educational Blogging*. EDUCAUSE review, 39(5):14–26.
-
 * Darsø, L. (2013). *Innovationspædagogik: kunsten at fremelske innovationskompetence*. Frederiksberg: Samfundslitteratur.
+
+* Dohn, N. B., & Johnsen, L. (2009). *E-læring på web 2.0*. Frederiksberg: Samfundslitteratur.
+
+* Downes, S. (2004). *Educational Blogging*. EDUCAUSE review, 39(5):14–26.
