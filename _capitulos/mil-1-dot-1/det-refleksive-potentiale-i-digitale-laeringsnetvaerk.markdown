@@ -1,6 +1,6 @@
 ---
 title: Det refleksive potentiale i digitale læringsnetværk
-date: 2017-09-10 22:11:00 +02:00
+date: 2017-09-10 10:11:00 +02:00
 categories:
 - mil1
 tags:
