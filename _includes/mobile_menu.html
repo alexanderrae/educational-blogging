@@ -1,6 +1,6 @@
 <div class="menu-mobile">
 	<select onchange="if (this.value) window.location.href=this.value">
-    	<option value="">Navegación</option>
+    	<option value="">Navigation</option>
 	{% for capitulo in site.data.sidebar %}
 	    <option value="{{ site.baseurl }}/{{ capitulo.url }}" class="menu-level1">{{ capitulo.title }}</option>
 	    {% if capitulo.subcaps %}
