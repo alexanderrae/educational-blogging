@@ -1,7 +1,6 @@
 ---
 title: Bloggen tager form
 date: 2017-09-10 23:03:00 +02:00
-published: false
 position: 0
 ---
 
