@@ -10,6 +10,6 @@ layout: appendix
 
 * Dohn, N. B., & Johnsen, L. (2009). *E-læring på web 2.0*. Frederiksberg: Samfundslitteratur.
 
-* Downes, S. (2004). *Educational Blogging*. EDUCAUSE review, 39(5):14–26.
+* Downes, S. (2004). *Educational Blogging*. EDUCAUSE review, 39(5):14–26. [LINK](http://er.educause.edu/articles/2004/1/educational-blogging)
 
-* Stephenson, Karen. *What Knowledge Tears Apart, Networks Make Whole*. Internal Communication Focus, 36.
+* Stephenson, Karen. *What Knowledge Tears Apart, Networks Make Whole*. Internal Communication Focus, 36. [LINK](http://www.drkaren.us/pdfs/icf.pdf)
