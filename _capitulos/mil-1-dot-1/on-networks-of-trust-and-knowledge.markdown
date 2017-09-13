@@ -2,6 +2,7 @@
 title: On networks of trust and knowledge
 date: 2017-09-13 11:11:00 +02:00
 position: 2
+comments: true
 ---
 
 > “Experience has long been considered the best teacher of knowledge. Since we cannot
