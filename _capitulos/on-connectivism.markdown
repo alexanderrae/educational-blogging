@@ -1,0 +1,11 @@
+---
+title: On connectivism
+date: 2017-09-13 11:11:00 +02:00
+---
+
+
+> “Experience has long been considered the best teacher of knowledge. Since we cannot
+experience everything, other people’s experiences, and hence other people, become the
+surrogate for knowledge. ‘I store my knowledge in my friends’ is an axiom for collecting
+knowledge through collecting people.” 
+-Karen Stephenson, undated
