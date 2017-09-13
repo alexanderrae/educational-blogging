@@ -10,4 +10,4 @@ position: 2
 > knowledge through collecting people.”
 > -Karen Stephenson, undated
 
-[http://www.workecology.com/articles/icf.pdf]
+[LINK](http://www.workecology.com/articles/icf.pdf)
