@@ -7,9 +7,10 @@ position: 2
 > “Experience has long been considered the best teacher of knowledge. Since we cannot
 > experience everything, other people’s experiences, and hence other people, become the
 > surrogate for knowledge. ‘I store my knowledge in my friends’ is an axiom for collecting
-> knowledge through collecting people.”
+> knowledge through collecting people. 
 >
-> 
-> -Karen Stephenson, 1998
+> \'A friend of a friend is a friend' or 'an enemy of a friend is an enemy' are two more axioms for knowledge transfer through people via their entrusted relationships.”
+
+- Karen Stephenson (1998)
 
 [LINK](http://www.drkaren.us/pdfs/icf.pdf)
