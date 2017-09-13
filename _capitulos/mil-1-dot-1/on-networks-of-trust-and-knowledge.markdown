@@ -13,4 +13,6 @@ position: 2
 >
 > - Karen Stephenson (1998)
 
+Efter at have stiftet bekendtskab med Connectivism (Konnektivisme?), har jeg tænkt en del over hvordan man kan dyrke disse netværk, til at modarbejde det videnshierarki der findes indlejret i kulturen på mange folkeskoler. Denne artikel behandler netop forholdet mellem hierarki og netværk meget fint, blandt andet med en analogi om at drikke lidt for meget hvidvin til en fest.
+
 [LINK](http://www.drkaren.us/pdfs/icf.pdf)
