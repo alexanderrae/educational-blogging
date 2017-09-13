@@ -8,6 +8,8 @@ position: 2
 > experience everything, other people’s experiences, and hence other people, become the
 > surrogate for knowledge. ‘I store my knowledge in my friends’ is an axiom for collecting
 > knowledge through collecting people.”
+>
+> 
 > -Karen Stephenson, undated
 
 [LINK](http://www.workecology.com/articles/icf.pdf)
