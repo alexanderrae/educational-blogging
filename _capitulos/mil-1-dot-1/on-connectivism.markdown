@@ -1,5 +1,5 @@
 ---
-title: On connectivism
+title: On networks of trust
 date: 2017-09-13 11:11:00 +02:00
 position: 2
 ---
