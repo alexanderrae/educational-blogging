@@ -10,8 +10,7 @@
     subsubcaps:
     - url: bloggen-tager-form
       title: "Bloggen tager form"
-  subcaps:
   - url: on-networks-of-trust-and-knowledge
-      title: "Læringsnetværk"
+    title: "Læringsnetværk"
 - title: "Litteraturliste"
   url: bibliografi
