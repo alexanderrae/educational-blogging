@@ -10,7 +10,7 @@ position: 2
 > knowledge through collecting people.
 >
 > \'A friend of a friend is a friend' or 'an enemy of a friend is an enemy' are two more axioms for knowledge transfer through people via their entrusted relationships.”
-
-- Karen Stephenson (1998)
+>
+> - Karen Stephenson (1998)
 
 [LINK](http://www.drkaren.us/pdfs/icf.pdf)
