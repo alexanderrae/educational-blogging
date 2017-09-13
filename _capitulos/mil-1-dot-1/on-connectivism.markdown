@@ -1,6 +1,7 @@
 ---
 title: On connectivism
 date: 2017-09-13 11:11:00 +02:00
+position: 2
 ---
 
 
