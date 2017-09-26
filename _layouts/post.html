@@ -34,10 +34,12 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <div>
+      <span>
+        <div>
       <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
       </div>
+  </span>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% assign relatedPosts = relatedPosts | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
