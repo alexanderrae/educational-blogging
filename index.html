@@ -10,10 +10,10 @@ layout: default
   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
  </h2>
  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  <a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a>
+
  <p>{{ post.excerpt }}</p>
  <a href="{{ BASE_PATH }}{{ post.url }}">Læs resten af indlægget ...</a>
- <br>
- <a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a>
 
  <hr>
 {% endfor %}
