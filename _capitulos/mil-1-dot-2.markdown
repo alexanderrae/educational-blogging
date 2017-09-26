@@ -4,6 +4,7 @@ date: 2017-09-26 13:46:00 +02:00
 categories:
 - MIL1.2
 position: 2
-category: MIL1.2
+type: modul
+modul: mil1.2
 ---
 
