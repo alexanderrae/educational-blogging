@@ -7,8 +7,8 @@ layout: default
   <h2 class="chapter-subtitle">{{ page.title }}</h2>
   {{ content }}
 
-  {% for category in site.categories %}
-  <h3>Indlæg i dette kapitel:</h3>
+<h3>Indlæg i dette kapitel:</h3>
+  {% for category in capitulo.categories %}
     {% for posts in category offset:1 %}
       {% for post in posts %}
   <h2>
