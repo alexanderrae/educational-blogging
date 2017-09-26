@@ -17,7 +17,7 @@ layout: default
   {% assign maxRelated = 5 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
-
+{% assign relatedPosts = 0 %}
 {% for post in site.posts %}
 
     {% assign sameTagCount = 0 %}
@@ -39,13 +39,14 @@ layout: default
         <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% assign relatedPosts = relatedPosts | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
       {% endif %}
     {% endif %}
 
   {% endfor %}
-  {% if sameTagCount == 0 %}
+  {% if relatedPosts == 0 %}
   <p>Der er desværre ingen opslag i samme kategori</p>
   {% endif %}
 </div>
