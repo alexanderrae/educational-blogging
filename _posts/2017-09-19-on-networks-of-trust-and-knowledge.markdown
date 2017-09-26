@@ -1,6 +1,6 @@
 ---
 title: On networks of trust and knowledge
-date: 2017-09-26 11:34:00 +02:00
+date: 2017-09-19 11:34:00 +02:00
 categories:
 - MIL1
 tags:
