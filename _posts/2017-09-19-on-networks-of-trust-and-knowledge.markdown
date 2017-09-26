@@ -2,7 +2,7 @@
 title: On networks of trust and knowledge
 date: 2017-09-19 11:34:00 +02:00
 categories:
-- MIL1.1
+- mil1.1
 tags:
 - connectivism
 comments: true
