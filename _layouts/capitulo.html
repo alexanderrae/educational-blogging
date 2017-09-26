@@ -18,22 +18,12 @@ layout: default
     {% assign commonTags = '' %}
 
     {% for modul in capitulo.modul %}
-        {% if post.categories contains modul %}
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
-        {% endif %}
-    {% endfor %}
-
-    {% if sameTagCount >= minCommonTags %}
+        {% if post.modul == modul %}
+          
       <div>
       <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
         <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
       </div>
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-      {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-      {% endif %}
     {% endif %}
 
   {% endfor %}
