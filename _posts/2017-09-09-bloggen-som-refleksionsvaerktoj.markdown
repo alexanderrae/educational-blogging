@@ -2,7 +2,7 @@
 title: Bloggen som refleksionsværktøj
 date: 2017-09-09 10:58:00 +02:00
 categories:
-- MIL1
+- MIL1.2
 comments: true
 ---
 
