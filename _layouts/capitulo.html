@@ -8,7 +8,7 @@ layout: default
   {{ content }}
 
 <h3>Indlæg i dette kapitel:</h3>
-   {% if capitulo.categories != 0 %}
+   {% if capitulo.categories != nil %}
     {% for category in page.categories %}
     {% for posts in category offset:1 %}
       {% for post in posts %}
