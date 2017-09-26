@@ -11,7 +11,7 @@ layout: default
  </h2>
  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
  <p>{{ post.excerpt }}</p>
- <a href="{{ BASE_PATH }}{{ post.url }}">Læs resten af indlægget ...</a>
+ <a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">Læs resten af indlægget ...</a>
  <hr>
 {% endfor %}
 </div>
