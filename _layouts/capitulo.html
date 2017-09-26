@@ -12,9 +12,10 @@ layout: default
   <h3>Indlæg i dette kapitel:</h3>
     {% for posts in category offset:1 %}
       {% for post in posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
       <p>{{ post.excerpt }}</p>
+<a href="{{ post.url }}">Læs resten af indlægget ...</a>
       {% endfor %}
     {% endfor %}
 {% endfor %}
