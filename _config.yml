@@ -6,6 +6,9 @@ collections:
     title: Capitulos
     output: true
     permalink: "/:path/"
+  mil1-dot-1:
+    title: MIL1.1
+    output: true
   posts:
     title: Posts
     output: true
