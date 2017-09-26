@@ -9,7 +9,7 @@ layout: default
  <h2>
   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
  </h2>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+ <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
  <p>{{ post.excerpt }}</p>
  <a href="{{ BASE_PATH }}{{ post.url }}">Læs resten af indlægget ...</a>
  <hr>
