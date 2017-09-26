@@ -13,7 +13,7 @@ layout: default
 </article>
 
 <div class="related">
-  <h3>Related Posts</h3>
+  <h3>Relaterede opslag</h3>
   {% assign maxRelated = 5 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
@@ -45,4 +45,6 @@ layout: default
     {% endif %}
 
   {% endfor %}
+  {% if sameTagCount > 0 %}
+  <h5>Der er desværre ingen opslag i samme kategori</h5>
 </div>
