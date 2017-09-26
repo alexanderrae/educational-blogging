@@ -5,6 +5,7 @@ categories:
 - MIL1
 tags:
 - connectivism
+comments: true
 ---
 
 > Experience has long been considered the best teacher of knowledge. Since we cannot
