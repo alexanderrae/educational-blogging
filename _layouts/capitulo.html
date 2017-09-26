@@ -17,13 +17,13 @@ layout: default
     <div>
         <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> 
+        <hr>
     </div>
     {% endif %}
     {% endfor %}
     {% endfor %}
   </div>
   {% endif %} 
-  <hr>
    
   {% include nav_interna.html %}
 
