@@ -17,7 +17,7 @@ layout: default
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
-    {% for category in capitulo.category %}
+    {% for category in page.category %}
       {% if post.url != page.url %}
         {% if page.categories contains category %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
