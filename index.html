@@ -9,8 +9,16 @@ layout: default
  <h2>
   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
  </h2>
+ <table>
+  <td>
+  <tr>
  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  </tr>
+  <tr>
   <a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a>
+  </tr>
+  </td>
+ </table>
 
  <p>{{ post.excerpt }}</p>
  <a href="{{ BASE_PATH }}{{ post.url }}">Læs resten af indlægget ...</a>
