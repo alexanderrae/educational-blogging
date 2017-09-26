@@ -6,7 +6,7 @@ layout: default
   <h1 class="chapter-title">{{ page.chapter }}</h1>
   <h2 class="chapter-subtitle">{{ page.title }}</h2>
   {{ content }}
-
+{% if capitulo.type == modul %}
   <div class="related">
        <h3>Indlæg i dette kapitel:</h3>
     {% assign maxRelated = 100 %}
@@ -17,14 +17,12 @@ layout: default
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
-    {% for category in page.category %}
-      {% if post.url != page.url %}
-        {% if page.categories contains category %}
+    {% for modul in capitulo.modul %}
+        {% if post.categories contains modul %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
           {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
-      {% endif %}
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
@@ -40,16 +38,7 @@ layout: default
 
   {% endfor %}
 </div>
-    {% for category in page.categories %}
-    {% for posts in category offset:1 %}
-      {% for post in posts %}
-  <h2>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-  </h2>
-      <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-      <p>{{ post.excerpt }}</p>
-<a href="{{ post.url }}">Læs resten af indlægget ...</a>
- 
+  {% endif %} 
    
   <hr>
       {% endfor %}
