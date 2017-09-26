@@ -4,6 +4,7 @@ date: 2017-09-09 10:58:00 +02:00
 categories:
 - MIL1.2
 comments: true
+modul: mil1.1
 ---
 
 Jeg roder pt. meget rundt i opsætningen af bloggen - det har vist sig at være ret overvældende, når man skal reflektere over egen praksis, *samtidig* med at man skal lære at bruge GitHub.
