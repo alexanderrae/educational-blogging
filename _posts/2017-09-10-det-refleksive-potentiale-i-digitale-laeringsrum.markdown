@@ -4,6 +4,7 @@ date: 2017-09-10 10:53:00 +02:00
 categories:
 - MIL1.1
 comments: true
+modul: mil1.1
 ---
 
 Jeg antager at anvendelsen af blogs med fordel kan anvendes som virtuelt refleksionsrum, hvori den lærende elev kan dokumentere sine overvejelser, tanker, følelser etc, med alle de muligheder web 2.0 tilbyder i form af multimodalt indhold.
