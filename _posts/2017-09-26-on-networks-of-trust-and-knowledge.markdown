@@ -1,6 +1,10 @@
 ---
 title: On networks of trust and knowledge
 date: 2017-09-26 11:34:00 +02:00
+categories:
+- MIL1
+tags:
+- connectivism
 ---
 
 > Experience has long been considered the best teacher of knowledge. Since we cannot
