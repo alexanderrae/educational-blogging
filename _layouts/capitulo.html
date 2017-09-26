@@ -11,7 +11,7 @@ layout: default
        <h3>Indlæg i dette kapitel:</h3>
     {% assign maxRelated = 100 %}
     {% assign minCommonTags =  1 %}
-    {% assign maxRelatedCounter = 1 %}
+    {% assign maxRelatedCounter = 10 %}
     {% for post in site.posts %}
 
     {% assign sameTagCount = 0 %}
@@ -39,7 +39,7 @@ layout: default
   {% endfor %}
 </div>
   {% endif %} 
-   
+   <br>
   <hr>
    
   {% include nav_interna.html %}
