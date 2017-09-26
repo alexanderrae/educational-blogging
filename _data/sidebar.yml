@@ -2,15 +2,7 @@
   url: introduktion
 - title: "MIL 1.1 : IKT-baserede læreprocesser"
   url: mil-1-dot-1
-  subcaps:
-  - url: det-refleksive-potentiale-i-digitale-laeringsnetvaerk
-    title: "Det refleksive potientiale i digitale læringsnetværk"
-  - url: bloggen-som-refleksionsvaerktoej-i-egen-praksis
-    title: "Bloggen som refleksionsværktøj i egen praksis"
-    subsubcaps:
-    - url: bloggen-tager-form
-      title: "Bloggen tager form"
-  - url: on-networks-of-trust-and-knowledge
-    title: "Læringsnetværk"
+- title: "MIL 1.2 : IKT og interaktionsdesign"
+  url: mil-1-dot-2
 - title: "Litteraturliste"
   url: bibliografi
