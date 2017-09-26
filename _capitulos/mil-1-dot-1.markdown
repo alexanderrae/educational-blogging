@@ -4,7 +4,7 @@ date: 2017-09-09 20:38:00 +02:00
 categories:
 - MIL1
 position: 1
-category: mil1.1
+category: MIL1.1
 ---
 
 Første seminar på MIL 1 foregik i Aalborg, fra d. 7. til den 9. september, 2017.
