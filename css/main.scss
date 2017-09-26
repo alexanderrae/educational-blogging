@@ -109,7 +109,7 @@ body {
 }
 
 aside {
-    @include span-columns(3);
+    @include span-columns(6);
     @include media-query-max($screen-xs-max) {
         @include span-columns(12);
     }
