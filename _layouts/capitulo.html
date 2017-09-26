@@ -18,13 +18,13 @@ layout: default
       <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
       <p>{{ post.excerpt }}</p>
 <a href="{{ post.url }}">Læs resten af indlægget ...</a>
-  {% endif %}
+ 
    
   <hr>
       {% endfor %}
     {% endfor %}
 {% endfor %}
-
+ {% endif %}
   {% include nav_interna.html %}
 
   {% if page.comments %}
