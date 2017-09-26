@@ -16,7 +16,7 @@ layout: default
       <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
       <p>{{ post.excerpt }}</p>
 <a href="{{ post.url }}">Læs resten af indlægget ...</a>
-  <br>
+  <hr>
       {% endfor %}
     {% endfor %}
 {% endfor %}
