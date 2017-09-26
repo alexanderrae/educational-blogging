@@ -7,24 +7,21 @@ layout: default
   <h2 class="chapter-subtitle">{{ page.title }}</h2>
   {{ content }}
 {% if capitulos.type == modul %}
-  <div class="related">
-       <h3>Indlæg i dette kapitel:</h3>
+  <div class="featured">
+    <h3>Indlæg i dette kapitel:</h3>
 
     {% for post in site.posts %}
-
-   
-
     {% for modul in page.modul %}
-        {% if post.modul == modul %}
-          
-      <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-      </div>
+    {% if post.modul == modul %}
+         
+    <div>
+        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time> 
+    </div>
     {% endif %}
-  {% endfor %}
-  {% endfor %}
-</div>
+    {% endfor %}
+    {% endfor %}
+  </div>
   {% endif %} 
   <hr>
    
