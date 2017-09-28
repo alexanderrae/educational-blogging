@@ -13,15 +13,16 @@ layout: default
  <h2>
   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
  </h2>
- 
+ <div class=timeandcomments>
  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 <span><a class="btn btn-default btn-sm">
   <i class="fa fa-comments"></i></a>
  <a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a>
  </span>
+   </div>
+
  <p>{{ post.excerpt }}</p>
  <a href="{{ BASE_PATH }}{{ post.url }}">Læs resten af indlægget ...</a>
-
  <hr>
 {% endfor %}
 </div>
