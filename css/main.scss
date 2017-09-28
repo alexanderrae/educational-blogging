@@ -288,7 +288,12 @@ white-space:nowrap;
 
 #time {float:left;}
 
-#comments {padding-left : 20px;float:left;}
+#comments {
+    padding-left : 20px;float:left;
+    margin-top: -.5rem;
+    margin-bottom: 1rem;
+    color: #9a9a9a;
+}
 
 .chapter-subtitle {
   font-size: 1.4rem;
