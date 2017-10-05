@@ -15,3 +15,5 @@ layout: appendix
 * Stephenson, Karen. *What Knowledge Tears Apart, Networks Make Whole*. Internal Communication Focus, 36. [LINK](http://www.drkaren.us/pdfs/icf.pdf)
 
 * Madsen, C., & Munch, P. (2008). *Med Dewey in mente*. Klim.
+
+* Siemens, G. (2006). *Knowing Knowledge*. Lulu.com.
