@@ -3,8 +3,7 @@ title: Blogs i praksis
 date: 2017-10-13 22:23:00 +02:00
 categories:
 - mil1.1
-tags:
-- blog
+- blogs
 comments: true
 modul: mil1.1
 ---
