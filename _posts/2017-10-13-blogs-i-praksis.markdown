@@ -1,6 +1,8 @@
 ---
 title: Blogs i praksis
 date: 2017-10-13 22:23:00 +02:00
+comments: true
+modul: mil1.1
 ---
 
 Efter at have beskæftiget sig med blogs i en akademisk forstand, er det på sin plads at gøre sig nogle praksiserfaringer med samme.
