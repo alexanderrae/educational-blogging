@@ -5,6 +5,7 @@ categories:
 - mil1.1
 - blogs
 comments: true
+modul: mil1.1
 ---
 
 Jeg har i arbejdet med blogs som refleksionsunderstøttende redskab, gjort mig en række tanker om denne metode:
