@@ -14,6 +14,6 @@ Jeg har i arbejdet med blogs som refleksionsunderstøttende redskab, gjort mig e
 
 2. **Indhold**: Indlæggene skal så vidt mulige være uden besnærende rammer og indholdskriterier, da de hæmmer et reelt refleksionspotientiale. Dog har jeg fundet stor interesse for Deweys 'mærkning' af portfolio indlæg, da der herved er et krav om *relevans*, hvilket må siges at være det bærende element: **Hvis det er relevant i forhold til elevens læring, er det relevant på en blog om elevens læring.** 
 
-3. **Form**: En blog behøves ikke kun følge et nyeste-opslag-først layout. Afhængig af bloggens indhold, bør eleven kunne koble og arrangere indhold på anden vis end blot omvendt kronologisk eller via tags. **Blogformatet må ikke blive det styrende dogme, da det er elevens refleksion der er i fokus**
+3. **Form**: En blog behøves ikke *kun* følge et nyeste-opslag-først layout. Afhængig af bloggens indhold, bør eleven kunne koble og arrangere indhold på anden vis end blot omvendt kronologisk eller via tags. **Blogformatet må ikke blive det styrende dogme, da det er elevens refleksion der er i fokus**
 
 For mit eget vedkommende, har jeg til hensigt at fortsætte anvendelsen af denne blog for egen lærings skyld, samt fortsætte den forsøgsmæssige introduktion i egen undervisning. 
