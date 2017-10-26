@@ -6,7 +6,7 @@ Personal website/blog
 
 Built with [Jekyll](https://github.com/jekyll/jekyll/).
 
-[Live page can be found at : http://www.alexanderrae.github.io](alexanderrae.github.io)
+[Live page can be found at : https://alexanderrae.github.io/](alexanderrae.github.io)
 
 ***
 
