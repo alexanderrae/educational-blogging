@@ -15,7 +15,7 @@ layout: default
     {% if post.modul == modul %}
     
     <div>
-        <h5>{{ post.title }}</h5>
+        <h5 id="post">{{ post.title }}</h5>
         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> 
        <div id="comments">
  <span>
@@ -35,7 +35,7 @@ layout: default
   {% endif %} 
   <script>
     var element = document.getElementById("featured");
-    var numberOfChildren = element.getElementsByTagName('*').length
+    var numberOfChildren = element.getElementsByTagName('div').length
     if (numberOfChildren == 1) {
       document.getElementById("featured").innerHTML = "<h3>Der findes i øjeblikket ingen opslag fra dette modul&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp¯\\_(ツ)_/¯</h3>";
     }
