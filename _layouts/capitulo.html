@@ -8,7 +8,7 @@ layout: default
   {{ content }}
 {% if capitulos.type == modul %}
   <div class="featured" id="featured">
-    <h4>Indlæg i dette modul:</h4>
+    <h3>Indlæg i dette modul:</h3>
 
     {% for post in site.posts %}
     {% for modul in page.modul %}
@@ -37,7 +37,7 @@ layout: default
     var element = document.getElementById("featured");
     var numberOfChildren = element.getElementsByTagName('*').length
     if (numberOfChildren == 1) {
-      document.getElementById("featured").innerHTML = "<h4>Der findes i øjeblikket ingen opslag fra dette modul&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp¯\\_(ツ)_/¯</h4>";
+      document.getElementById("featured").innerHTML = "<h3>Der findes i øjeblikket ingen opslag fra dette modul&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp¯\\_(ツ)_/¯</h3>";
     }
   </script>
   {% include nav_interna.html %}
