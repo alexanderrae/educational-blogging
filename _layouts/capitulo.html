@@ -9,7 +9,7 @@ layout: default
 {% if capitulos.type == modul %}
   <div class="featured" id="featured">
     <h3>Indlæg i dette modul:</h3>
-
+  	<hr>
     {% for post in site.posts %}
     {% for modul in page.modul %}
     {% if post.modul == modul %}
@@ -43,7 +43,8 @@ layout: default
   {% include nav_interna.html %}
 
   {% if page.comments %}
-  	<hr>
+    	<hr>
+
   	{% include disqus.html %}
   {% endif %}
 </article>
