@@ -8,3 +8,6 @@ type: modul
 modul: mil1.2
 ---
 
+Andet seminar på MIL 1 foregik i Aarhus, fra d. 26. til den 27. september, 2017.
+
+Overskriften for modulet var *IKT og interaktionsdesign* og indeholdt primært forelæsninger af Janni Nielsen, Department of Digitalization, Copenhagen Business School.
