@@ -7,7 +7,7 @@ layout: default
   <h2 class="chapter-subtitle">{{ page.title }}</h2>
   {{ content }}
 {% if capitulos.type == modul %}
-  <div class="featured" id="feautured">
+  <div class="featured" id="featured">
     <h3>Indlæg i dette modul:</h3>
 
     {% for post in site.posts %}
@@ -37,7 +37,7 @@ layout: default
   {% endif %} 
   <script>
     if (posts != true) {
-      document.getElementById("feautured").innerHTML = "Der er endnu ingen opslag fra dette modul :(";
+      document.getElementById("featured").innerHTML = "Der er endnu ingen opslag fra dette modul :(";
     }
   </script>
   {% include nav_interna.html %}
