@@ -7,13 +7,15 @@ layout: default
   <h2 class="chapter-subtitle">{{ page.title }}</h2>
   {{ content }}
 {% if capitulos.type == modul %}
-  <div class="featured">
+  <div class="featured" id="feautured">
     <h3>Indlæg i dette modul:</h3>
 
     {% for post in site.posts %}
     {% for modul in page.modul %}
     {% if post.modul == modul %}
-         
+         <script>
+           var posts = true
+    </script>
     <div>
         <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> 
@@ -33,7 +35,11 @@ layout: default
     {% endfor %}
   </div>
   {% endif %} 
-   
+  <script>
+    if (posts != true) {
+      document.getElementById("feautured").innerHTML = "Der er endnu ingen opslag fra dette modul :(";
+    }
+  </script>
   {% include nav_interna.html %}
 
   {% if page.comments %}
