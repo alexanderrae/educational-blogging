@@ -2,11 +2,9 @@
 
 Personal website/blog
 
-***Work in progress.***
+***offline***
 
 Built with [Jekyll](https://github.com/jekyll/jekyll/).
-
-https://alexanderrae.github.io/
 
 ***
 
